@@ -1,5 +1,5 @@
 
-################## İLK KULLANIM İÇİN ######################
+################## İLK KULLANIM İÇİN #####################
 
 	İlk olarak hata vermemesi için pip'i güncelellemek lazım.
 		pip install --upgrade pip
