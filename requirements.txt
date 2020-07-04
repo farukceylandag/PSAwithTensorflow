@@ -1,0 +1,9 @@
+ --upgrade pip
+tensorflow-cpu==1.15.0
+protobuf
+pillow
+lxml
+jupyter
+matplotlib
+pandas
+opencv-python

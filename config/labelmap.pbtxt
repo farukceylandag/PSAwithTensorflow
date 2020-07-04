@@ -1,0 +1,34 @@
+item {
+  id: 1
+  name: 'Mutlu'
+}
+
+item {
+  id: 2
+  name: 'Uzuntu'
+}
+
+item {
+  id: 3
+  name: 'Saskin'
+}
+
+item {
+  id: 4
+  name: 'Korku'
+}
+
+item {
+  id: 5
+  name: 'Ofke'
+}
+
+item {
+  id: 6
+  name: 'Tiksinme'
+}
+
+item {
+  id: 7
+  name: 'Cushing'
+}
