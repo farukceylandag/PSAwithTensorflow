@@ -1,13 +1,13 @@
-# FOR FIRST USE ;
+# FOR FIRST USE
 
 - **Required Installations;**
  > pip install -r requirements.txt
 	
-- **Update Protobuf;**
+- **Upgrade Protobuf;**
  > pip install --upgrade protobuf
 
 
-# PSYCHOLOGICAL SITUATION ASSESSMENT ;
+# PSYCHOLOGICAL SITUATION ASSESSMENT
 
 - **For Image**  :  face_detection_image.py
 - **For Video**  :  face_detection_video.py
