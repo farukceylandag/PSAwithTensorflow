@@ -1,9 +1,9 @@
 # FOR FIRST USE ;
 
-Required Installations;
+- **Required Installations;**
  > pip install -r requirements.txt
 	
-Update Protobuf;
+- **Update Protobuf;**
  > pip install --upgrade protobuf
 
 
