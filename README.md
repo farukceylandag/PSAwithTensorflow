@@ -7,7 +7,7 @@
  > pip install --upgrade protobuf
 
 
-# PSYCHOLOGICAL SITUATION ASSESSMENT
+# PSA AND CUSHING SYNDROME
 
 - **For Image**  :  face_detection_image.py
 - **For Video**  :  face_detection_video.py
@@ -15,4 +15,4 @@
 
 # RESULT
 
-![](https://i.hizliresim.com/0wYVU8.png)
+![Result](https://i.hizliresim.com/0wYVU8.png)
