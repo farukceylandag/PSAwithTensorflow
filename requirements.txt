@@ -1,4 +1,4 @@
-tensorflow-cpu==1.15.2
+tensorflow-cpu==2.4.0
 protobuf
 pillow
 lxml
