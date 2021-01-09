@@ -13,6 +13,6 @@
 - **For Video**  :  face_detection_video.py
 - **For Webcam** :  face_detection_webcam.py
 
-# RESULT ;
+# RESULT
 
 ![](https://i.hizliresim.com/0wYVU8.png)
