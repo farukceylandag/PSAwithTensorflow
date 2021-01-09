@@ -1,14 +1,14 @@
 
-İLK KULLANIM İÇİN ;
+FOR FIRST USE ;
 
-	Gerekli Kurulumlar İçin;
+	Required Installations;
 		pip install -r requirements.txt
 	
-	Protobuf Güncelleme;
+	Update Protobuf;
 		pip install --upgrade protobuf
 	
-PSİLOLOJİK DURUM DEĞERLENDİRMESİ ;
+PSYCHOLOGICAL SITUATION ASSESSMENT ;
 	
-	Resim  :  python face_detection_image.py
-	Video  :  python face_detection_video.py
-	Webcam :  python face_detection_webcam.py
+	For Image  :  python face_detection_image.py
+	For Video  :  python face_detection_video.py
+	For Webcam :  python face_detection_webcam.py
