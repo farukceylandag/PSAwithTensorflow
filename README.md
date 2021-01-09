@@ -1,5 +1,5 @@
 
-################## İLK KULLANIM İÇİN #####################
+İLK KULLANIM İÇİN ;
 
 	İlk olarak hata vermemesi için pip'i güncelellemek lazım.
 		pip install --upgrade pip
@@ -10,7 +10,7 @@
 	Protobuf Güncelleme;
 		pip install --upgrade protobuf
 	
-########## PSİLOLOJİK DURUM DEĞERLENDİRMESİ ##############
+PSİLOLOJİK DURUM DEĞERLENDİRMESİ 
 	
 	Resim  :  python face_detection_image.py
 	Video  :  python face_detection_video.py
