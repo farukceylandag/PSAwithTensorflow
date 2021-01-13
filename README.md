@@ -17,4 +17,4 @@
 
 ![Result-Happy](https://i.hizliresim.com/0wYVU8.png)
 
-![Result-Cushing](https://i.hizliresim.com/LLPwbC.png)
+![Result-Cushing](https://im7.ezgif.com/tmp/ezgif-7-f7f3154a07a0.png)
